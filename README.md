@@ -1,4 +1,4 @@
-# Hello, I'm Bashir
+# Hello, I'm Bashir Mohamed
 <a href="https://www.linkedin.com/in/bashir-hasabelnabi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -38,7 +38,6 @@ My background in IT support has sparked a strong interest in cybersecurity, and 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
@@ -46,15 +45,15 @@ My background in IT support has sparked a strong interest in cybersecurity, and 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    
+<img src="https://img.shields.io/badge/-BSc%20Information%20Management%20%26%20Security-blue?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/-eJPT-FF0000?&style=for-the-badge&logo=graduation-cap&logoColor=white" />
 <img src="https://img.shields.io/badge/-eCIR-FF0000?&style=for-the-badge&logo=academia&logoColor=white" />
 
 
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+
 </div>
 
 ## Projects
