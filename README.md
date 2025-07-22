@@ -59,4 +59,5 @@ My background in IT support has sparked a strong interest in cybersecurity, and 
 
 ## Projects
 - <a href="https://github.com/Bash1001/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="[https://github.com/Bash1001/Detection-Lab/tree/main](https://github.com/Bash1001/Phishing_Lab)">Phishing Lab</a>
+
