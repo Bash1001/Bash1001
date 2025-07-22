@@ -13,6 +13,7 @@ My background in IT support has sparked a strong interest in cybersecurity, and 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Bash1001/Detection-Lab/tree/main">Detection Lab</a>|
+| Phishing Lab                                  | <a href="https://github.com/Bash1001/Phishing_Lab">Phishing Lab</a>|
 <!-- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
